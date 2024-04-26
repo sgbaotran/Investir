@@ -9,3 +9,13 @@ This application will bring sets of utilities that support user with their inves
 * Basic fundamental analysis 
 * Decision making-support
 
+## Resources
+
+The logic and implementation of the figure calculation are based on different sources
+
+* How I Pick My Stocks: Investing For Beginners - Mark Tilbury
+* A beginner's guide to the stock market - Matthew R.Kratter
+
+## How to use
+
+
